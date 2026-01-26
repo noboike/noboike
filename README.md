@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**noboike/noboike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software engineer** with a deep obsession for how things work under the hood — from UI systems to 3D math and rendering pipelines.  
+I enjoy building things **from scratch**, understanding fundamentals, and pushing past abstractions when they get in the way.
 
-Here are some ideas to get you started:
+### 🧠 What I’m into
+- 🖥️ Frontend & app development (TypeScript-first)
+- 🎮 3D graphics, rendering math, and game tech
+- ⚙️ Software rendering, WebGPU, shaders, and GPU pipelines
+- 🧩 Building custom engines, tools, and UI systems
+- 🌍 RTL-friendly design and internationalized apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- A **WebGPU-based renderer** (OBJ loading, normal mapping, shadows)
+- Custom **software rasterizers** (perspective-correct UVs, depth testing)
+- Experimental graphics & math-heavy side projects
+
+### 🌱 Currently learning
+- Advanced **graphics programming** (WebGPU, WGSL)
+- Rendering techniques beyond tutorials (real-world pipelines)
+- Performance-oriented architecture and engine design
+
+### 💬 Ask me about
+- 3D math (projection, clipping, depth, perspective correction)
+- Rendering pipelines (CPU vs GPU)
+- TypeScript, Svelte, Flutter, Web graphics
+- Why Flutter beats React Native (I will defend this)
+
+### ⚡ Fun facts
+- I like understanding systems so deeply I could re-implement them
+- I enjoy building tools just for myself
+- Big fan of games
+
+---
+
+> _“Abstractions are great — until you want full control.”_
