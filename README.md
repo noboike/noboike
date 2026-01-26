@@ -10,16 +10,6 @@ I enjoy building things **from scratch**, understanding fundamentals, and pushin
 - 🧩 Building custom engines, tools, and UI systems
 - 🌍 RTL-friendly design and internationalized apps
 
-### 🔭 Currently working on
-- A **WebGPU-based renderer** (OBJ loading, normal mapping, shadows)
-- Custom **software rasterizers** (perspective-correct UVs, depth testing)
-- Experimental graphics & math-heavy side projects
-
-### 🌱 Currently learning
-- Advanced **graphics programming** (WebGPU, WGSL)
-- Rendering techniques beyond tutorials (real-world pipelines)
-- Performance-oriented architecture and engine design
-
 ### 💬 Ask me about
 - 3D math (projection, clipping, depth, perspective correction)
 - Rendering pipelines (CPU vs GPU)
