@@ -12,7 +12,6 @@ I enjoy building things **from scratch**, understanding fundamentals, and pushin
 
 ### 💬 Ask me about
 - 3D math (projection, clipping, depth, perspective correction)
-- Rendering pipelines (CPU vs GPU)
 - TypeScript, Svelte, Flutter, Web graphics
 - Why Flutter beats React Native (I will defend this)
 
