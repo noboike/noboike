@@ -9,17 +9,6 @@ I enjoy building things **from scratch**, understanding fundamentals, and pushin
 - ⚙️ Software rendering, WebGPU, shaders, and GPU pipelines
 - 🧩 Building custom engines, tools, and UI systems
 - 🌍 RTL-friendly design and internationalized apps
-
-### 💬 Ask me about
-- 3D math (projection, clipping, depth, perspective correction)
-- TypeScript, Svelte, Flutter, Web graphics
-- Why Flutter beats React Native (I will defend this)
-
-### ⚡ Fun facts
-- I like understanding systems so deeply I could re-implement them
-- I enjoy building tools just for myself
-- Big fan of games
-
 ---
 
 > _“Abstractions are great — until you want full control.”_
